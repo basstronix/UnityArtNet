@@ -4,6 +4,8 @@ This is a quick and dirty example of ArtNet in Unity. This project only RECEIVES
 
 I recommend downloading Jinx! and loading up the provided save file (2720.jnx) which is preconfigured for the ArtNet Display scene. You may need to adjust the network adapter settings in Jinx!. It's also a good idea to download ArtNetominator as a sanity check, as it shows all ArtNet broadcasts your computer can see.
 
+A .unitypackage file can be found here: https://github.com/basstronix/UnityArtNet/releases/download/1.0/ArtNet.unitypackage
+
 Good luck. I'd love to see what you do with this. Shoot me a message on my YouTube channel: 
 
 https://www.youtube.com/channel/UCYFeGBKfPYBB1WlP9S0NkbA
