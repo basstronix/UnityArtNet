@@ -6,6 +6,8 @@ I recommend downloading Jinx! and loading up the provided save file (2720.jnx) w
 
 A .unitypackage file can be found here: https://github.com/basstronix/UnityArtNet/releases/download/1.0/ArtNet.unitypackage
 
+YouTube video here: https://www.youtube.com/watch?v=mgNUOfRJMT0
+
 Good luck. I'd love to see what you do with this. Shoot me a message on my YouTube channel: 
 
 https://www.youtube.com/channel/UCYFeGBKfPYBB1WlP9S0NkbA
